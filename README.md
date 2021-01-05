@@ -1,4 +1,4 @@
-# WorkoutLog
+# WorkoutLog--https://suryaaa-g.github.io/WorkoutLog/
 A form where a user is able to enter data about his/her workout
 Using html, css, and JavaScript I made a simple Workout Log form. I plan on connecting this to a database so the data entered can be stored somewhere. I also plan on making it look neater. 
 
